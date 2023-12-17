@@ -1,6 +1,6 @@
 {
   "name": "factorial-function",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "calc factorial",
   "main": "index.js",
   "scripts": {
